@@ -1,0 +1,61 @@
+@font-face {
+font-family:Chomsky;
+src:url(Chomsky.woff); 
+}
+
+
+
+body{
+    background-image: url("https://www.transparenttextures.com/patterns/natural-paper.png");
+    background-color:#bfb78f;
+}
+
+
+
+/* Let's declare the title and headline of the newspaper. */
+h1 {
+    font-size: 150px;
+    font-family: "Chomsky";
+    text-align: center;
+    
+}
+
+h2 {
+  font-family: 'Staatliches', cursive;
+  font-size: 50px;
+  margin-left: 100px; 
+
+}
+
+p1 {
+    
+
+}
+
+.clear {
+clear: inline-start;
+
+}
+
+
+.main {
+margin:10px;
+    
+}
+.leftbox {
+position: absolute;
+background-image:"C:\Users\Chelsea\Desktop\utbootcamp\HTMLHOMEWORK-UT\hellofriend.gif";
+margin-left:50px;
+}
+
+
+.rightbox {
+    float: right;
+    width: 700px;
+    margin-right: 50px;
+    border: 50px;
+
+
+
+} 
+
