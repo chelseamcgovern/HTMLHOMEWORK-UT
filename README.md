@@ -1,4 +1,4 @@
 # HTMLHOMEWORK-UT
 This is HTML Practice for My Portfolio
 
-![App Picture]("TheSpookySpectator.PNG")
+![App Picture]("https://github.com/chelseamcgovern/HTMLHOMEWORK-UT/blob/master/TheSpookySpectator.PNG")
